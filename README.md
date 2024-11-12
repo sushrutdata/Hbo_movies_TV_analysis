@@ -28,21 +28,7 @@ Release Year: Year the title was released.
 IMDb Average Rating: IMDb rating for the title.
 IMDb Number of Votes: Total votes on IMDb.
 Available Countries: List of countries where the title is available.
-Usage
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/HBO-Max-Data-Analysis.git
-Install the required libraries:
-
-bash
-Copy code
-pip install -r requirements.txt
-Open and run the HBO Max.ipynb Jupyter Notebook:
-
-bash
-Copy code
 jupyter notebook "HBO Max.ipynb"
 Dependencies
 This project uses the following Python libraries:
